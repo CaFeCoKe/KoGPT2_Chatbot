@@ -4,7 +4,7 @@
 
 
 ## - GPT(Generative Pre-trained Transformer) 구성<br><br>
-
+![GPT2](https://user-images.githubusercontent.com/86700191/166428742-65e094fc-0ee1-491b-a34c-863e31e1f249.png)
 
 ## - 결과
  + 데이터 로더<br><br>
