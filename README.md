@@ -1,7 +1,7 @@
 # KoGPT2_Chatbot
 
 ## - 알고리즘 순서도<br><br>
-
+![Chatbot_algorithm](https://user-images.githubusercontent.com/86700191/166633270-42d3a161-9781-4739-bfd7-55ea850374db.png)
 
 ## - GPT(Generative Pre-trained Transformer) 구성<br><br>
 ![GPT2](https://user-images.githubusercontent.com/86700191/166428742-65e094fc-0ee1-491b-a34c-863e31e1f249.png)
